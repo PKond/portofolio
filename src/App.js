@@ -26,6 +26,7 @@ function App() {
             Telecommunications of the National Kapodistrian University of
             Athens.
           </p>
+          <p className="intro">In the coming months I aspire to land my first Web Development job.</p>
         </div>
 
         <div className="skills text-[#C3C3C3]">
