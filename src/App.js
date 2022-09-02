@@ -72,10 +72,10 @@ function App() {
         </div>
       </div>
 
-      <div className="portofolio">
-        <div className="text-6xl text-[#696969]">Portofolio</div>
-        <div class="skill-row2">
-          <section className="flex flex-wrap items-center justify-center justify-evenly my-24 gap-4">
+      <div className="portfolio">
+        <div className="text-6xl text-[#696969] underline">Portfolio</div>
+        <div className="skill-row2">
+          <section className="flex flex-wrap items-center justify-center justify-evenly my-12 gap-4">
             {Projects &&
               Projects.map((n) => (
                 <div
