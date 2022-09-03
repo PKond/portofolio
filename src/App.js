@@ -36,34 +36,34 @@ function App() {
           </div>
           <div class="skill-row">
             <div className="icon-title">
-              <div className="text-2xl underline">FrontEnd</div>
+              <p className="text-2xl underline">FrontEnd</p>
               <div className="pt-6">
-                <FontAwesomeIcon icon={faCode} size="6x" />
+                <FontAwesomeIcon icon={faCode} size="6x fa-fw" />
               </div>
             </div>
 
             <div className="web-development-list text-2xl">
               <ul>
-                <li>CSS including vanilla CSS, Bootstrap and Tailwind CSS</li>
-                <li>Javascript including jQuery</li>
-                <li>React-React Redux</li>
+                <li>- CSS including vanilla CSS, Bootstrap and Tailwind CSS</li>
+                <li>- Javascript including jQuery</li>
+                <li>- React-React Redux</li>
               </ul>
             </div>
           </div>
 
           <div className="skill-row">
             <div className="icon-title2">
-              <div className="text-2xl underline pt-8">BackEnd</div>
+              <p className="text-2xl underline">BackEnd</p>
               <div className="pt-6">
-                <FontAwesomeIcon icon={faDatabase} size="6x" />
+                <FontAwesomeIcon icon={faDatabase} size="6x fa-fw" />
               </div>
             </div>
 
             <div class="web-development-list2 text-2xl">
               <ul>
-                <li>Backend icluding SQL, MongoDB, Mongoose, Firebase</li>
+                <li>- Backend icluding SQL, MongoDB, Mongoose, Firebase</li>
                 <li>
-                  Familiarity with deployment frameworks mainly Heroku and
+                  - Familiarity with deployment frameworks mainly Heroku and
                   Firebase
                 </li>
               </ul>
