@@ -61,7 +61,7 @@ function App() {
 
             <div class="web-development-list2 text-2xl">
               <ul>
-                <li>- Backend icluding SQL, MongoDB, Mongoose, Firebase</li>
+                <li>- Backend including SQL, MongoDB, Mongoose, Firebase</li>
                 <li>
                   - Familiarity with deployment frameworks mainly Heroku and
                   Firebase
