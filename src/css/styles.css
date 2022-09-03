@@ -91,20 +91,20 @@ hr {
   margin-left: 15%;
 }
 
+.icon-title2 {
+  margin-bottom: 5%;
+}
+
 .web-development-list {
   flex-grow: 8;
   margin-left: 2%;
 }
 
-.icon-title2 {
-  margin-bottom: 5%;
-}
-
 .web-development-list2 {
-  /* display: flex; */
   flex-grow: 8;
-  /* flex: wrap; */
   margin-left: 4%;
+  position: relative;
+  margin-top: -4%;
 }
 
 .portfolio {
