@@ -45,7 +45,7 @@ function App() {
             <div className="web-development-list text-2xl">
               <ul>
                 <li>- CSS including vanilla CSS, Bootstrap and Tailwind CSS</li>
-                <li>- Javascript including jQuery</li>
+                <li>- JavaScript including jQuery</li>
                 <li>- React-React Redux</li>
               </ul>
             </div>
